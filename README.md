@@ -1,9 +1,9 @@
-# Hi, I'm Sarah Jessica 👋
+# Hi there, I'm Sarah Jessica 👋
 
 ### AI & Data Engineer | Algorithmic Efficiency Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarahjessicanw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jessic4.sarah@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sarahjessicanauly@gmail.com)
 
 I am a passionate data and machine learning engineer who loves transforming complex time-series data into high-performing, interactive applications. With a strong foundation in Physics and Instrumentation, I specialize in designing lightweight deep learning architectures tailored for edge computing and building end-to-end data analytics pipelines.
 
