@@ -10,10 +10,10 @@ I am a passionate data and machine learning engineer who loves transforming comp
 ---
 
 ## 📊 GitHub Analytics
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarah-jessicaa&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-jessicaa&layout=compact&theme=radical&hide_border=true" />
-</div>
+*(Note: Data will populate automatically as projects are uploaded)*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarah-jessicaa&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-jessicaa&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -75,3 +75,10 @@ Performed rigorous raw sensor data preprocessing (baseline correction, min-max n
   * **Software Engineering Fundamental Course** – RevoU (2023)
   * **EnglishScore Core Skills (CEFR C1 Advanced)** – British Council (2026)
   * **Photonics Research Internship** – BRIN (2026)
+
+---
+
+## 📫 Let's Connect!
+I am currently open for internship and entry-level opportunities in **AI Engineering** and **Data Analytics**. If your team is looking for a data-driven engineer who values algorithmic efficiency and practical problem solving, I would love to hear from you.
+
+**[Connect with me on LinkedIn](https://linkedin.com/in/sarahjessicanw)** | **[Drop me an Email](mailto:jessic4.sarah@gmail.com)**
